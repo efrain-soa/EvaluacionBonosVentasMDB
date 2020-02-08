@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="oracle.eclipse.tools.weblogic.lib.shared/spring-3.1/exact/3.1.0"/>
+	<classpathentry kind="con" path="oracle.eclipse.tools.weblogic.lib.shared/util-eai-1.0/exact/1.0.0"/>
+	<classpathentry kind="con" path="oracle.eclipse.tools.weblogic.lib.application/EvaluacionBonosVentasMDBEAR"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jersey-client-1.18.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-data-oracle-1.0.0.release.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javaee-api-7.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/ojdbc14-9.0.2.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_45"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
